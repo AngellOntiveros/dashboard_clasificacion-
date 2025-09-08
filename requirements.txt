@@ -1,8 +1,0 @@
-streamlit>=1.25
-opencv-python-headless==4.7.0.72
-numpy>=1.25
-pillow>=10.0
-pandas>=2.0
-plotly>=5.15
-gdown>=4.7
-ultralytics>=8.0
